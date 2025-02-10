@@ -30,5 +30,5 @@ public class Calculator {
         System.out.println("Multiplication: " + calc.multiply(10, 5));
         System.out.println("Division: " + calc.divide(10, 5));
     }
-}
+};
 # first comment added
